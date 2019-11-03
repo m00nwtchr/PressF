@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pressf",
+  "name": "Press F",
+  "description": "Press F to pay respects",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lukas2005"],
+  "credits": "@King Fat Boy#7363",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
